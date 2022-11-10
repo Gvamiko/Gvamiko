@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gvamiko ( Gigi DolmazaSvili )
+- 👋 Hi, I’m @Gvamiko ( Gigi Dolmazashvili )
 - 👀 I’m interested in HTML/CSS/MSSQL
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on with companies where I will learn more and earn money
